@@ -26,11 +26,11 @@ To use the application, follow these steps:
 
 ### Demo
 
-To see a live demo of the Bankist application, visit [Demo Page](#https://jay31kr.github.io/Bankist/).
+To see a live demo of the Bankist application, visit [Demo Page](https://jay31kr.github.io/Bankist/).
 
 ### Author
 
-- GitHub: [jay](#https://github.com/Jay31kr)
+- GitHub: [jay](https://github.com/Jay31kr)
 
 ### Note
 
